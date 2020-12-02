@@ -2,7 +2,7 @@ import React from 'react'
 
 import React from 'react'
 
-const camera = () => {
+const Camera = () => {
   return (
     <div>
       <input
@@ -20,4 +20,4 @@ const camera = () => {
   )
 }
 
-export default camera
+export default Camera
