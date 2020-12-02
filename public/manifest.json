@@ -1,0 +1,12 @@
+{
+  "short_name": "Air-Pocket",
+  "name": "Air Pocket",
+  "background_color": "#FFFFFF",
+  "theme_color": "#015699",
+  "display": "standalone",
+  "orientation": "portrait",
+  "icons": [
+
+  ],
+  "start_url": "/"
+}
